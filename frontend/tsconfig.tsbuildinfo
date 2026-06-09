@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/bandpowerchart.tsx","./src/components/brainstatedashboard.tsx","./src/components/channelselector.tsx","./src/components/correlationchart.tsx","./src/components/recordingpanel.tsx","./src/components/waveformchart.tsx","./src/store/eeg.ts","./src/types/index.ts"],"version":"5.9.3"}
